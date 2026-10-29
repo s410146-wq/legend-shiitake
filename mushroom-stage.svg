@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b9dcd4"/><stop offset="1" stop-color="#6d9aa0"/></linearGradient><linearGradient id="ground" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d9b36b"/><stop offset="1" stop-color="#9f6a43"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#sky)"/><circle cx="650" cy="100" r="48" fill="#f6bf58" opacity=".95"/>
+  <path d="M0 300L160 150l125 130 125-175 210 195 180-150v350H0Z" fill="#376e7b" opacity=".82"/><path d="M0 370Q220 275 420 365t380-20v155H0Z" fill="url(#ground)"/>
+  <g transform="translate(220 220)"><path d="M90 118h112l-12 110H102Z" fill="#e6bd8d"/><path d="M35 125Q48 45 146 44t112 81Z" fill="#a84435"/><ellipse cx="96" cy="77" rx="12" ry="7" fill="#e18d6a"/><ellipse cx="163" cy="62" rx="12" ry="7" fill="#e18d6a"/><ellipse cx="214" cy="84" rx="12" ry="7" fill="#e18d6a"/></g>
+  <g transform="translate(95 310) scale(.55)"><path d="M90 118h112l-12 110H102Z" fill="#e6bd8d"/><path d="M35 125Q48 45 146 44t112 81Z" fill="#be5540"/></g>
+  <text x="34" y="54" fill="#fff" font-family="Arial" font-size="18" font-weight="700" letter-spacing="4">LEGEND SHIITAKE / FIELD NOTE</text>
+</svg>
